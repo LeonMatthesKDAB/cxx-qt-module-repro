@@ -5,7 +5,7 @@ Simply run `cargo run`
 Current output:
 
 ```
-Default MyObjectRust, number is MyObjectRust { number: 0, string:  }
+Default MyObjectRust MyObjectRust { number: 0, string:  }
 QQmlApplicationEngine failed to load component
 file:///.../cxx-qt-module-repro/qml/main.qml:13:1: module "CxxQt.Repro" is not installed
 ```
